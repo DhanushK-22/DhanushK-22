@@ -1,14 +1,27 @@
-[![MasterHead](https://images.unsplash.com/photo-1591696331110-48a8e526097f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VjdXJpdHl8Mnx8Y3liZXIlMjBkZWZlbnNlJTIwc2VjdXJpdHl8ZW58MHx8fHwxNjk2NDI3MDA5&ixlib=rb-4.0.3&q=80&w=1080)](https://DhanushK-22)
+[![MasterHead](https://wallpaperaccess.com/full/7093921.jpg)](https://DhanushK-22)
+
+
 
 <h1 align="center">Hi 👋, I'm Dhanush</h1>
 <h3 align="center">SOC Analyst | Cyber Defense Enthusiast | Security Tools Practitioner</h3>
 
-<img align="right" alt="Cyber Defense" width="400" src="https://cdn.dribbble.com/users/503139/screenshots/4842591/cyber_security_dribbble.gif">
+
+
+
+<img align="right" alt="Cyber Defense" width="400" src="https://dsgroupholland.com/wp-content/uploads/2023/07/security-6.jpg">
+
+
+
+
 
 - 🔭 I’m currently working on **SOC monitoring and cyber defense projects**  
 - 🌱 I’m learning **advanced threat intelligence and SIEM tuning**  
 - 📫 How to reach me: **dhanushab2904@gmail.com**  
 - 💻 Interested in: **Cyber defense, SOC automation, and threat detection**
+
+
+
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
