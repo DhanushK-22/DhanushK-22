@@ -10,7 +10,7 @@
 - 📫 How to reach me: **dhanushab2904@gmail.com**  
 - 💻 Interested in: **Cyber defense, SOC automation, and threat detection**
 
-- <h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://www.python.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
@@ -19,17 +19,16 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
   </a> 
   <a href="https://www.splunk.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/5/50/Splunk_logo.svg" alt="splunk" width="40" height="40"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/splunk/splunk-original.svg" alt="splunk" width="40" height="40"/> 
   </a> 
   <a href="https://www.elastic.co/elastic-stack/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elasticsearch/elasticsearch-original.svg" alt="elastic-stack" width="40" height="40"/> 
   </a> 
   <a href="https://www.snort.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Snort_Logo.png" alt="snort" width="40" height="40"/> 
+    <img src="https://raw.githubusercontent.com/dhruvildave/snort-icons/main/snort.png" alt="snort" width="40" height="40"/> 
   </a> 
   <a href="https://suricata-ids.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Suricata-Logo.svg" alt="suricata" width="40" height="40"/> 
+    <img src="https://raw.githubusercontent.com/dhruvildave/suricata-icons/main/suricata.png" alt="suricata" width="40" height="40"/> 
   </a> 
 </p>
-
 
